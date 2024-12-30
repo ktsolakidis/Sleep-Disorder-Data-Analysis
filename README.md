@@ -42,3 +42,10 @@ This is the dataset used for the analysis and modeling. It contains various life
 This dataset is the foundation of the project.
 
 ---
+
+## Contact
+
+**Konstantinos Tsolakidis**  
+Machine Learning Engineer  
+Hatzakis Lab - University of Copenhagen  
+📧 kontsolakidis25@gmail.com  
