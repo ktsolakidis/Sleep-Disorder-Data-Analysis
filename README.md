@@ -1,7 +1,6 @@
 # Sleep Disorder Data Analysis
 
-This repository contains a comprehensive analysis of the **Sleep Health and Lifestyle Dataset**. The goal is to uncover relationships between variables that influence sleep disorders and validate these insights using machine learning models.
-
+This repository contains a comprehensive analysis of the **Sleep Health and Lifestyle Dataset**. The goal is to uncover relationships between variables that influence sleep disorders.
 Let's make a story out of our data!
 
 ---
@@ -43,3 +42,10 @@ This is the dataset used for the analysis and modeling. It contains various life
 This dataset is the foundation of the project.
 
 ---
+
+## Contact
+
+**Konstantinos Tsolakidis**  
+Machine Learning Engineer  
+Hatzakis Lab - University of Copenhagen  
+📧 kontsolakidis25@gmail.com  
